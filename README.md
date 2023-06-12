@@ -1,2 +1,2 @@
 # vite-react-template
-Starting Vite template fore React
+Starting Vite template for React
